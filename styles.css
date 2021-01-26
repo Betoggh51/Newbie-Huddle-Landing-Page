@@ -125,6 +125,7 @@ body {
         background-image: url(./images/bg-desktop.svg);
         background-size: auto;
         margin: auto 0;
+        height: 90vh;
     }
 
     .main-container{
