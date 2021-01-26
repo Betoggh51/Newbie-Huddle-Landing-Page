@@ -153,6 +153,13 @@ body {
         border-radius: 40px;
         font-size: 1rem;
     }
+
+    .footer{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        margin-right: 7%;
+    }
 }
 
 @media only screen and (min-width: 1100px){
